@@ -4,3 +4,5 @@ Joey = 59
 Total = Lucas + Joey
 
 print (Total)
+
+print("Hi")

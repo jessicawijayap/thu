@@ -1,16 +1,12 @@
 # Jessica
 
 JOB EXPERIENCES
-- CIA
-- FBI
-- CPA
+- Procurement
   
 
 EDUCATIONS
 - Tunghai University
-- Tunghai High School
-- Tunghai Junior School
-- Tunghai Elementary School
+- Universitas Pelita Harapan
   
 COMPUTER SKILLS
 

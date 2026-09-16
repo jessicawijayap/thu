@@ -1,13 +1,13 @@
 # Jessica
 
 JOB EXPERIENCES
-  CIA
-  FBI
+- CIA
+- FBI
 
 
 EDUCATIONS
-  Tunghai University
-  Tunghai High School
+- Tunghai University
+- Tunghai High School
   Tunghai Junior School
   Tunghai Elementary School
 COMPUTER SKILLS

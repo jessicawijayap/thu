@@ -1,12 +1,17 @@
-# Jessica
+# JESSICA
 
-JOB EXPERIENCES
+# Job Experience
 - Procurement
   
 
-EDUCATIONS
+# Educations
 - Tunghai University
 - Universitas Pelita Harapan
   
-COMPUTER SKILLS
+# COMPUTER SKILLS
+- SAP 
+- Google Antigravity
+
+# Honors
+- Taiwan Scholarship
 
